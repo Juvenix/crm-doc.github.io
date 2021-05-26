@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be8bb67f.chunk.css",
+    "main.js": "/build/main.b82ff2f8.js",
+    "runtime-main.js": "/build/bundle.f0f5edae.js",
+    "build/2.0a731a2e.js": "/build/2.0a731a2e.js",
+    "build/2.0a731a2e.js.LICENSE.txt": "/build/2.0a731a2e.js.LICENSE.txt",
+    "index.html": "/index.html",
+    "static/css/main.be8bb67f.chunk.css.map": "/static/css/main.be8bb67f.chunk.css.map"
+  },
+  "entrypoints": [
+    "build/bundle.f0f5edae.js",
+    "build/2.0a731a2e.js",
+    "static/css/main.be8bb67f.chunk.css",
+    "build/main.b82ff2f8.js"
+  ]
+}
